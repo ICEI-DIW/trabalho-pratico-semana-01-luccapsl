@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucca de Paula Silva Lopes
+Matricula: 882446
 
 ## Tela de inspeção com navegador
 
+![arquivos_print](https://github.com/user-attachments/assets/fda2322c-5eec-4e6a-84fc-39d5c19f5755)
 
 ## Tela de projeto no Replit
 
+![visualizacao_helloworld](https://github.com/user-attachments/assets/29b315d6-3626-4d37-963c-dc8aa336fbc9)
